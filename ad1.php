@@ -3,7 +3,6 @@
 $id1=1;
 $server="localhost";
 $username="root";
-$a='';
 $password="";
 $dbname="project";
 $conn=mysqli_connect($server,$username,$password,$dbname);
